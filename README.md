@@ -2,8 +2,6 @@
 
 The following steps will guide you to setup the ROS2 Bridge extension for Isaac Sim.
 
-![GIF showing the installation by opening a new terminal](assets/setup.gif)
-
 ## Prerequisites
 
 - From [ms_iot](https://ms-iot.github.io/ROSOnWindows/GettingStarted/SetupRos2.html), 
