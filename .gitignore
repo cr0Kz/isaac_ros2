@@ -1,0 +1,58 @@
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore installation artifacts
+install/
+
+# Ignore logs
+log/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+
+# Ignore log files
+*.log
+
+# Ignore package manager directories
+node_modules/
+vendor/
+
+# Ignore configuration files with sensitive information
+config.ini
+secrets.json
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore backup files
+*.backup
+*.swp
+
+# Ignore generated documentation
+docs/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore environment-specific files
+.env
+.env.local
+
+# Ignore database files
+*.db
+*.sqlite
+
+# Ignore cache directories
+.cache/
+
+!.gitkeep
+src/*

@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.profiles.windows": {
+        "[ROS2] x64 Native Tools Command Prompt for VS 2019": {
+            "path": "cmd.exe",
+            "args": [
+                "/K",
+                "scripts\\integrated_profile.bat"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "[ROS2] x64 Native Tools Command Prompt for VS 2019"
+}

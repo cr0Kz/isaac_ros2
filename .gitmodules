@@ -1,0 +1,8 @@
+[submodule "src/vision_msgs"]
+	path = src/vision_msgs
+	url = https://github.com/ros-perception/vision_msgs
+	branch = ros2
+[submodule "src/pointcloud_to_laserscan"]
+	path = src/pointcloud_to_laserscan
+	url = https://github.com/ros-perception/pointcloud_to_laserscan.git
+	branch = humble
