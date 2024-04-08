@@ -20,7 +20,7 @@ The following steps will guide you to setup the ROS2 Bridge extension for Isaac 
 
 - Clone the repository.
     ```
-    git clone https://github.com/cr0Kz/isaac_ros2.git
+    git clone --recurse-submodules https://github.com/cr0Kz/isaac_ros2.git
     ```
 - Open the repository with Visual Code.
 - Open a new terminal in Visual Code "Terminal -> New Terminal".
